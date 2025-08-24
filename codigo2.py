@@ -1,2 +1,2 @@
-nombre = "jacqueline"
-print("hola " + npmbre) 
+nombre = "Camilita"
+print("hola " + nombre) 
