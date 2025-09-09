@@ -1,9 +1,3 @@
-nombre = "Naomi Camilita"
-apellido = "Ann"
+import sys
 
-print("Hola " + nombre + " " + apellido + " ¿cómo estás?")
-saludo = ("Hola " + nombre + " " + apellido)
-print(saludo)
-
-
-
+print("hello, my name is", sysargv[1]
